@@ -1,0 +1,10 @@
+# Log Files
+*.log
+*.iml
+app/build/
+build/
+.gradle/
+local.properties
+.idea/
+app/app.iml
+CriminalIntent.iml

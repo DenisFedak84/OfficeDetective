@@ -1,0 +1,34 @@
+<resources>
+    <string name="title_activity_pager">CrimeActivity</string>
+    <string name="crime_title_hint">Введите название преступления.</string>
+    <string name="crime_title_label">Преступление: </string>
+    <string name="crime_solved_label">Преступление раскрыто?</string>
+    <string name="crimes_title">Преступления</string>
+    <string name="crimes_list_title">Список преступлений</string>
+    <string name="date_picker_title">Дата преступления: </string>
+    <string name="base_disalog_time">Время</string>
+    <string name="base_disalog_date">Дата</string>
+    <string name="base_disalog_title">Выберете параметр:</string>
+    <string name="new_crime">Новое преступление</string>
+    <string name="show_subtitle">Показать подзаголовок</string>
+    <string name="hide_subtitle">Скрыть подзаголовок</string>
+    <string name="subtitle">Если ты видишь что то, сделай что то.</string>
+    <string name="delete_crime">Удалить</string>
+    <string name="take">Снимок!</string>
+    <string name="crimes_camera_title">Камера </string>
+
+    <string name="crimes_suspect_text">Выберете подозреваемого</string>
+    <string name="crimes_report_text">Отправить отчет преступления</string>
+    <string name="crime_report">%1$s! Это преступление было совершено в %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_unsolved">Преступление не раскрыто</string>
+    <string name="crime_report_suspect">Подозреваемый %s.</string>
+    <string name="call_suspect">Позвонить подозреваемому</string>
+    <string name="suspect">Подозреваемый: </string>
+    <string name="date">Дата</string>
+    <string name="app_name">Офисный детектив</string>
+    <string name="crime_details_label">Подробности</string>
+    <string name="crime_report_no_suspect">Нет подозреваемого</string>
+    <string name="crime_report_solved">Преступление раскрыто</string>
+    <string name="crime_report_subject">Отчет преступления</string>
+    <string name="send_report">Отправить отчет преступлений</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // значение ресурса представляет собой ссылку на однопанельный макет
+    // внутренний класс идентификатора определяется атрибутом type
+    // идентификатор хранится в R.layout
+    // теперь этот идентификатор ресурса может использоватся вместо R.layout.activity_fragment
+
+    <item name="activity_masterdetail" type="layout">@layout/activity_fragment</item>
+</resources>

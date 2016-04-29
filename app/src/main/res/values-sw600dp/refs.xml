@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // значение ресурса представляет собой ссылку на двухпанельный макет
+    // sw - Smallest Width (наименьшая ширина) - этот ресурс должен использоватся на любых
+    // устройствах, у которых меньший размер составляет 600dp и выше
+    <item name="activity_masterdetail" type="layout">@layout/activity_twopane</item>
+</resources>
